@@ -1,0 +1,12 @@
+requests
+django
+markdown
+djangorestframework
+django-filter
+psycopg2-binary
+ipython
+gunicorn
+django-cors-headers
+pyjwt
+django-rest-swagger
+
