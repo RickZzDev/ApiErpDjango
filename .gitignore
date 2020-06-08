@@ -1,0 +1,16 @@
+venv/
+teste/
+.vscode/
+estudo_empresas_drf/manage.py
+estudo_empresas_drf/db.sqlite
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+env/
+.idea/
+holidays/
